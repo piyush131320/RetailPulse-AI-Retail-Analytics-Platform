@@ -454,7 +454,7 @@ RetailPulse implements a complete MLOps loop for the churn model:
 
 > 🔧 **Coming in Week 4 (Day 25)** — Cloud deployment on Streamlit Community Cloud / AWS
 
-**Demo URL:** *(to be updated)*
+**Demo URL:** *https://retailpulse-ai-retail-analytics-platform-ztgt2apszjzidzxokazav.streamlit.app/*
 
 ---
 
