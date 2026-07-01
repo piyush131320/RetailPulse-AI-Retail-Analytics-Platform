@@ -41,7 +41,8 @@ with st.sidebar:
 
     st.markdown("### Navigation")
 
-    st.page_link("app.py",                              label="🏠 Home")
+    
+    st.markdown("🏠 Home")
     st.page_link("pages/1_Demand_Forecasting.py",       label="📈 Demand Forecasting")
     st.page_link("pages/2_Customer_Segmentation.py",    label="👥 Segmentation & Churn")
     st.page_link("pages/3_Inventory_Optimization.py",   label="📦 Inventory Optimization")
